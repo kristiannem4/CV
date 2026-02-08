@@ -144,14 +144,14 @@ header li:first-child{
     position:absolute;
     width:20em; 
     height:20em; 
-    background-image: url('img/Ja.jpg'); 
+    background-image: url('../img/Ja.jpg'); 
     background-size: cover; 
     transition: background-image 0.1s ease-in-out; 
     right:17.5em;
 }
 
 .image-hover:hover {
-    background-image: url('img/ja_vianoce.jpg'); 
+    background-image: url('../img/ja_vianoce.jpg'); 
 }
 
 /*MAIN*/
@@ -531,6 +531,7 @@ header li{
     }
 
 }
+
 
 
 
